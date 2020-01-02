@@ -1,0 +1,149 @@
+
+
+body {
+  font-family: 'Cabin', sans-serif;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+.notifications-text {
+  background-color: #f5dea3;
+  padding-top: 0.5%;
+  padding-bottom: 0.15%;
+  font-size: 1.25rem;
+
+}
+
+.title {
+  margin: 0;
+  height: 100%;
+}
+
+.container-fluid {
+  background-color: #018383;
+  padding-bottom: 0.5%;
+}
+
+
+.navbar-brand {
+  color: #fff;
+}
+
+.navbar-brand:hover {
+  color: #f5dea3;
+}
+
+.nav-item {
+  padding: 10px 10px;
+  font-size: 20px;
+}
+
+.nav.navbar-nav li a {
+   color: #fff;
+ }
+
+.nav.navbar-nav a:hover {
+ color: #f5dea3;
+}
+
+.navbar-toggler {
+  color: #fff;
+}
+
+.container2-fluid img{
+  width: 100%;
+  height: 700px;
+  position: relative;
+  opacity: 0.5;
+}
+
+.mottoTitle {
+  font-size: 32px;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mission-statement-title {
+  font-size: 20px
+}
+
+.container3-fluid {
+  padding: 5%;
+  margin: 5%;
+}
+
+
+.feature-box:hover {
+  color: #42e6a4;
+}
+
+
+.container4-fluid {
+  background-color: #02a8a8;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.memberSpotlight-title {
+  margin-bottom: 3%;
+}
+
+.card-deck {
+  margin: 0;
+  border: 0;
+}
+
+.card {
+  background-color: #f5dea3;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 65%;
+  padding-top: 2%;
+
+}
+
+.stories-link {
+  padding: 2.5% 0;
+}
+
+.container5-fluid {
+  background-color: #fff;
+  padding-top: 7%;
+  padding-bottom: 7%;
+}
+
+.sponsor-box1 {
+  padding-top: 2%;
+  text-align: center;
+}
+
+.sponsor-box2 img{
+  padding-bottom: 1%;
+}
+
+.container6-fluid {
+  position: relative;
+
+}
+
+.footer {
+  background-color: #f5dea3;
+  padding: 5% 10%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  padding: 2%;
+}
